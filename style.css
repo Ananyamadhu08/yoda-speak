@@ -27,8 +27,8 @@ body{
     background-color: var(--light-green);
     text-align: center;
     font-size: 2rem;
-    height: 150px;
-    padding: 0.5rem;
+    height: 120px;
+    padding: 1rem;
     border-bottom-left-radius: 7rem;
 }
 
@@ -37,7 +37,7 @@ textarea{
     background-color: var(--light-green);
     margin: 0px;
     width: 600px;
-    height:150px
+    height:130px
 }
 
 
@@ -55,15 +55,15 @@ button{
     display: block;
     margin: 0px;
     width: 600px;
-    height: 150px;
+    height: 130px;
     border: 1px solid black;
-    padding 2rem;
 }
 
 .footer{
     background-color: var(--light-green);
     text-align: center;
     font-size: 1rem;
-    padding: 0.5rem;
+    padding: 1rem;
     border-top-right-radius: 7rem;
+    height: 20px;
 }
