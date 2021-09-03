@@ -1,2 +1,2 @@
 # yoda-speak
-A Yoda translator app for Yoda lovers 
+This app communictes with an API and translates the input to Yoda.
